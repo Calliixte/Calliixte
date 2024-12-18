@@ -7,7 +7,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=calliixte&theme=nightowl"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=calliixte&theme=nightowl&utcOffset=1"/>
 </div>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
