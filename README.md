@@ -1,16 +1,11 @@
 ### Since it was just created, I have not yet imported my old projets on my account, once they are all here this message will be removed (unless I forget about it)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Calliixte&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will-cupa&layout=compact&size_weight=0.5&count_weight=0.5)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Calliixte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Calliixte/count.svg?"  />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calliixte&theme=nightowl) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calliixte&theme=nightowl) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=calliixte&theme=nightowl) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=calliixte&theme=nightowl) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=calliixte&theme=nightowl&utcOffset=1) 
 
 ###
 
