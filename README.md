@@ -1,5 +1,3 @@
-### Since my profile is fairly new, I have not yet imported my old projets on github, once they are all here this message will be removed (unless I forget about it)
-
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calliixte&theme=nightowl"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calliixte&theme=nightowl"/>
